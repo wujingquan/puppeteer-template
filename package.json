@@ -9,6 +9,10 @@
   "author": "i@wujingquan.com",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^21.3.4"
+    "@wordpress/api-fetch": "^6.39.0",
+    "crypto-js": "^4.1.1",
+    "mime": "^3.0.0",
+    "puppeteer": "^21.3.4",
+    "wordpress": "^1.4.2"
   }
 }
